@@ -1,0 +1,57 @@
+body {
+	margin-top: 12vh;
+	background-color: black;
+}
+
+.container {
+	display: flex;
+	justify-content: center;
+
+}
+
+.center-pic {
+	width:300px;
+	height:300px;
+	border-radius: 60%;
+	box-shadow: 1px 1px 5px 0px white, -1px -1px 2px 0px red;
+	opacity: 0.8;
+} 
+
+#mc_embed_signup {
+	display:flex;
+	justify-content: center;
+	margin-top:5vh;
+	width:95px;
+	background-color:#730300;
+	color:white;
+	 
+}
+
+
+.redqueen {
+	 position:absolute;
+	 margin-left: 5vw;
+	 margin-top: -1vh; 
+}
+
+.queen {
+	width:200px;
+	margin-left: 5vw;
+	border-radius: 60%;
+	opacity: 0.2;
+}
+
+p {
+	color:white;
+	text-align: center;
+	line-height: 2em;
+	font-size: 1.25em;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.intro {
+	font-size: 1.5em;
+	margin-top:10px;
+	font-family: 'IM Fell English SC', serif;
+	box-shadow:0px 0px 2px 3px red,0px 0px 3px 4px white;
+	color: grey;
