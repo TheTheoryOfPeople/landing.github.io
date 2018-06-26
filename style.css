@@ -27,19 +27,10 @@ body {
 	 
 }
 
-
-.redqueen {
-	 position:absolute;
-	 margin-left: 5vw;
-	 margin-top: -1vh; 
+#mc-embedded-subscribe-form {
+	background-color: black;
 }
 
-.queen {
-	width:200px;
-	margin-left: 5vw;
-	border-radius: 60%;
-	opacity: 0.2;
-}
 
 p {
 	color:white;
